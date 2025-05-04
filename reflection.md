@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Josie Smith
+Sudent Email:  jsmit194@syr.edu
 
 ## Instructions
 
@@ -23,3 +23,6 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+The biggest takeaway from this assignment was trying to get my playwright to work properly before even starting. I had to play around in Visual Studio Code to make sure that my python interpreter was configured to use pytest for testing and not unittest, which wouldn't run the tests in the tests folder under the assignment project root. It taught me how to better navigate Visual Studio Code and the search bar above, and I learned to use Command + Shift + P as a shortcut for the search bar.
+In terms of scraping, this assignment helped me review figuring out which CSS selectors to use based on what's in the "inspect" HTML. I am still not great at identifying when to use which selector, but in this case it was the "next line" "~*" query selector for scraping the title text.
+I had to look at the solutions much less during this assignment than during previous ones, and the documentation was helpful. I remember playing around with the "inspect" feature on webpages when I was in elementary school and changing colors and words on the page, so it's cool for that to have a use now for me.
